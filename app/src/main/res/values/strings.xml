@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Body-mass-index-using-ViewModel</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="bmi_is">Your bmi is %1$.1f</string>
+</resources>
